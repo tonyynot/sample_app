@@ -20,4 +20,3 @@ group :development, :test do
   gem 'minitest-reporters'
   gem 'spring'
 end
-
